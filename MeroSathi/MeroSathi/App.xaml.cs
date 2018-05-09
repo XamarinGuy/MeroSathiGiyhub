@@ -20,7 +20,7 @@ namespace MeroSathi
 
 		protected override void OnStart ()
 		{
-            AppCenter.Start("ed9db7b4-f41b-4196-b28a-7d54270faca1", typeof(Analytics), typeof(Crashes));
+            AppCenter.Start("8d56921e-719d-4476-84d4-6e410381d714", typeof(Analytics), typeof(Crashes));
         }
 
 		protected override void OnSleep ()
