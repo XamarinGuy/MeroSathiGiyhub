@@ -88,6 +88,10 @@
     </AndroidResource>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\UITest1\UITest1.csproj">
+      <Project>{8cf83893-11b4-43ca-9845-40d370657510}</Project>
+      <Name>UITest1</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MeroSathi\MeroSathi.csproj">
       <Project>{D80DA4AA-483F-4E77-B63F-F7210BC1ED1E}</Project>
       <Name>MeroSathi</Name>
